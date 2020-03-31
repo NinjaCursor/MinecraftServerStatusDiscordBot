@@ -1,0 +1,13 @@
+# Discord Token
+discord-token: "Your Token"
+
+# Status Messages
+online-status-message: "Online"
+offline-status-message: "Offline"
+
+# Database Configuration
+host: "host"
+port: 3306
+database: "database"
+username: "username"
+password: "password"
